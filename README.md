@@ -27,6 +27,7 @@ Practical_X/
 | Practical No. | Topic                                             | Folder                         |
 |---------------|---------------------------------------------------|--------------------------------|
 | Practical 1   | RGB Plane Separation, Grayscale & B/W Conversion  | [`Practical_1`](./Practical_1) |
+| Practical 2   | Histogram Equalization and Bit Slicing            | [`Practical_2`](./Practical_2) |
 
 
 > Each folder contains a local `README.md` explaining the objective, code, outputs, and how to run it.
