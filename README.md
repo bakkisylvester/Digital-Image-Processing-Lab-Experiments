@@ -29,6 +29,7 @@ Practical_X/
 | Practical 1   | RGB Plane Separation, Grayscale & B/W Conversion  | [`Practical_1`](./Practical_1) |
 | Practical 2   | Histogram Equalization and Bit Slicing            | [`Practical_2`](./Practical_2) |
 | Practical 3   | Shannon-Fano and Huffman Coding ALgorithms        | [`Practical_3`](./Practical_3) |
+| Practical 4   | Arithmetic Compression and JPEG compression       | [`Practical4_`](./Practical_4) |
 
 
 > Each folder contains a local `README.md` explaining the objective, code, outputs, and how to run it.
